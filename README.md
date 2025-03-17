@@ -3,7 +3,7 @@
 This is a simple **Flutter UI Design** inspired by **Foodpanda**, built with **Flutter & Dart**.
 
 ## 📸 Screenshot
-![App Screenshot](assets/UI.png)
+![App Screenshot](assets/ui.png)
 
 ## 🚀 Features
 - **Beautiful UI** with Foodpanda Theme 🎨
